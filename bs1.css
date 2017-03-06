@@ -1,0 +1,79 @@
+.navbar-header{
+	margin:14px;
+}
+.navbar-inverse{
+    background-color:rgb(0,130,156);	
+	border:1px solid black;
+}
+.int{
+	color:black;
+	font-size:55px;
+	font-family: Roboto, serif;
+    margin-left:20px;
+	margin-top:15px;
+}
+.it{
+	color:white;
+	font-size:55px;
+	font-family: Roboto, serif;
+}
+.as{
+	
+	color:black;
+	font-size:55px;
+	font-family: Roboto, serif;
+}
+.img{
+	text-decoration: none;
+	color: black;
+	font-family: Myriad Pro, serif;
+	text-align: center;
+	font-size: 14px;
+	margin-right:40px;
+}
+
+.group{
+	margin:12px;
+	
+}
+.friends{
+	margin:12px;	
+}
+.news{
+	margin:10px;
+}
+.foto{
+	margin:12px;
+}
+.video{
+	margin:12px;
+}
+.input-group{
+	margin:20px;
+}
+.impeg{
+	margin:20px;
+}
+.block{
+	  background-color:rgb(239,239,239);
+}
+.navbar-inverse2{
+    background-color:rgb(255,255,255);	
+	border:1px solid black;
+}
+.row{
+	border-bottom:1px solid black;
+}
+.thumbnail{
+	margin-top:20px;
+}
+.hens{
+	margin-top:45px;
+}
+.color{
+	color:black;
+}
+.coments{
+	color:black;
+	margin-top:34px;
+}
