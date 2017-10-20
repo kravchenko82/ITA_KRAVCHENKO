@@ -1,0 +1,41 @@
+
+.foun{
+	background-color:yellow:
+}
+.header{
+	margin-top:20px;
+	}
+.menu{
+	color:black;
+		
+}
+.bth{
+	background-color:orange;
+	font-size:15px;
+	margin-left:15px;
+	
+}
+.bth1{
+	background-color:orange;
+	font-size:35px;	
+}
+.bth2{
+	background-color:rgb(240,240,240);
+	font-size:35px;	
+}
+.ikons{
+	width:210px;
+	height:210px;
+	border:2px solid black;
+	border-radius:100%;
+	margin:0px;
+}
+.color{
+	color:black;
+}
+.box{
+	padding-left:50px;
+	background-color:rgb(239,239,239);
+	font-size:35px;
+}
+
